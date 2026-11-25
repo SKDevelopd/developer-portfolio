@@ -11,11 +11,11 @@
 
 |------------|-------------|------------|--------|
 
-| [cse103-lab-LAB3](https://github.com/[username]/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting |
+| [cse103-lab-LAB3](https://github.com/SKDevelopd/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting |
 
 Git, Python, Bash | Active |
 
-| [developer-portfolio](https://github.com/[username]/developer-portfolio) | This portfolio index | Markdown | Active
+| [developer-portfolio](https://github.com/SKDevelopd/developer-portfolio) | This portfolio index | Markdown | Active
 
 |
 
