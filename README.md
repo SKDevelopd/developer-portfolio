@@ -1,5 +1,5 @@
 
-# [Your Full Name] — Developer Portfolio
+# Sarthak Kaushik — Developer Portfolio
 
 > B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
 
