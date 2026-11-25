@@ -23,7 +23,7 @@ Git, Python, Bash | Active |
 
 ## Current Skills
 
-Python [█████░░░░░] 50%
+Python [██████░░░░] 60%
 
 Linux / Bash [████░░░░░░] 40%
 
